@@ -122,3 +122,8 @@ This project is part of NASA's educational initiatives. Please check with NASA f
 🤖 AI Assistance Disclaimer
 
 This project was developed by J&R AstroLabs. AI tools were used to assist with parts of the coding process, debugging, and development. The ideas, game concept, design, decisions, and final implementation were created and reviewed by Johan and Reyaan.Apps Challenge 2026.
+
+Copyright © 2026 J&R AstroLabs — Johan & Reyaan. All rights reserved.
+
+This project and its original content, including its design, game concept, graphics, and written materials, are owned by J&R AstroLabs.
+AI tools were used for coding assistance during development.
